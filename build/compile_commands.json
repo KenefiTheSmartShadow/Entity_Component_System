@@ -1,0 +1,266 @@
+[
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build",
+  "command": "/sbin/c++ -DSHADER_DIR=\\\"/home/kenefi/Documents/Repos/ECS/resources/shaders\\\" -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/glad/include  -o CMakeFiles/ECS.dir/src/main.cpp.o -c /home/kenefi/Documents/Repos/ECS/src/main.cpp",
+  "file": "/home/kenefi/Documents/Repos/ECS/src/main.cpp",
+  "output": "CMakeFiles/ECS.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/glad",
+  "command": "/sbin/cc  -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/thirdparty/glad/include  -o CMakeFiles/glad.dir/src/gl.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/glad/src/gl.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/glad/src/gl.c",
+  "output": "thirdparty/glad/CMakeFiles/glad.dir/src/gl.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/autofit/autofit.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/autofit/autofit.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/autofit/autofit.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/autofit/autofit.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbase.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbase.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbase.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftbase.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbbox.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbbox.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbbox.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftbbox.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbdf.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbdf.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbdf.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftbdf.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbitmap.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbitmap.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftbitmap.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftcid.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftcid.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftcid.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftcid.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftfstype.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftfstype.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftfstype.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftfstype.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgasp.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftgasp.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftgasp.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftgasp.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftglyph.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftglyph.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftglyph.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftglyph.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgxval.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftgxval.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftgxval.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftgxval.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftinit.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftinit.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftinit.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftinit.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftmm.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftmm.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftmm.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftmm.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftotval.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftotval.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftotval.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftotval.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpatent.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftpatent.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftpatent.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftpatent.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpfr.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftpfr.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftpfr.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftpfr.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftstroke.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftstroke.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftstroke.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftstroke.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftsynth.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftsynth.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftsynth.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftsynth.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/fttype1.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/fttype1.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/fttype1.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/fttype1.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftwinfnt.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftwinfnt.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bdf/bdf.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/bdf/bdf.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/bdf/bdf.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/bdf/bdf.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/bzip2/ftbzip2.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/bzip2/ftbzip2.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cache/ftcache.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cache/ftcache.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cache/ftcache.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/cache/ftcache.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cff/cff.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cff/cff.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cff/cff.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/cff/cff.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cid/type1cid.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cid/type1cid.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/cid/type1cid.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/cid/type1cid.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/gzip/ftgzip.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/gzip/ftgzip.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/lzw/ftlzw.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/lzw/ftlzw.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pcf/pcf.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pcf/pcf.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pcf/pcf.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/pcf/pcf.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pfr/pfr.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pfr/pfr.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pfr/pfr.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/pfr/pfr.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psaux/psaux.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/psaux/psaux.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/psaux/psaux.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/psaux/psaux.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pshinter/pshinter.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/pshinter/pshinter.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psnames/psnames.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/psnames/psnames.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/psnames/psnames.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/psnames/psnames.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/raster/raster.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/raster/raster.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/raster/raster.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/raster/raster.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sdf/sdf.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/sdf/sdf.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/sdf/sdf.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/sdf/sdf.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/sfnt/sfnt.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/sfnt/sfnt.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/smooth/smooth.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/smooth/smooth.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/smooth/smooth.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/smooth/smooth.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/svg/svg.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/svg/svg.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/svg/svg.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/svg/svg.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/truetype/truetype.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/truetype/truetype.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/truetype/truetype.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/truetype/truetype.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type1/type1.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/type1/type1.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/type1/type1.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/type1/type1.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type42/type42.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/type42/type42.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/type42/type42.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/type42/type42.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/winfonts/winfnt.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/winfonts/winfnt.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/builds/unix/ftsystem.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/builds/unix/ftsystem.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o"
+},
+{
+  "directory": "/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype",
+  "command": "/sbin/cc -DFT2_BUILD_LIBRARY -I/home/kenefi/Documents/Repos/ECS/thirdparty -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/include -I/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/include/freetype/config -I/usr/include/harfbuzz -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftdebug.c.o -c /home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftdebug.c",
+  "file": "/home/kenefi/Documents/Repos/ECS/thirdparty/freetype/src/base/ftdebug.c",
+  "output": "thirdparty/freetype/CMakeFiles/freetype.dir/src/base/ftdebug.c.o"
+}
+]

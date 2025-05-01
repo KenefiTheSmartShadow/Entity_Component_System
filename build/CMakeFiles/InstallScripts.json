@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kenefi/Documents/Repos/ECS/build/cmake_install.cmake",
+		"/home/kenefi/Documents/Repos/ECS/build/thirdparty/glad/cmake_install.cmake",
+		"/home/kenefi/Documents/Repos/ECS/build/thirdparty/freetype/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
